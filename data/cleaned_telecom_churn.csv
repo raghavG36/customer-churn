@@ -1,0 +1,6 @@
+SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_Yes,Dependents_Yes,PhoneService_Yes,MultipleLines_No phone service,MultipleLines_Yes,InternetService_Fiber optic,OnlineSecurity_Yes,OnlineBackup_Yes,DeviceProtection_Yes,TechSupport_Yes,StreamingTV_Yes,StreamingMovies_Yes,Contract_One year,Contract_Two year,PaperlessBilling_Yes,PaymentMethod_Credit card (automatic),PaymentMethod_Electronic check,PaymentMethod_Mailed check,Churn_Yes
+0,1,29.85,29.85,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False
+1,34,56.95,1889.5,True,False,False,True,False,False,True,True,False,True,False,True,True,False,True,False,False,False,True,False
+0,2,53.85,108.15,True,False,False,True,False,True,True,False,True,False,True,True,True,False,False,True,False,False,False,True
+0,45,42.3,1840.75,False,True,True,False,True,False,False,True,True,True,False,False,False,True,False,False,True,False,False,False
+1,5,70.7,353.7,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False,True,False,True
